@@ -1,1 +1,2 @@
 # PRODIGY_DS_02
+Prodigy Data Science Internship Task 02. This project focuses on Exploratory Data Analysis on Titanic Dataset from Kaggle. It includes preprocessing and analyzing a dataset through visualizations and statistical methods. The steps include handling missing data, generating descriptive statistics, and creating visual representations like histograms and correlation heatmaps to uncover patterns and insights within the data.
